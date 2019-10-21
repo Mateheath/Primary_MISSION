@@ -1,0 +1,2 @@
+# Primary_MISSION
+最初のTechtrainMISSION/Primary_techtrain_MISSION.
